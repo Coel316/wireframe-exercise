@@ -1,0 +1,70 @@
+p {
+  display: inline-block;
+}
+
+nav {
+  display: inline-block;
+  color: white;
+  background-color: rgb(71, 70, 70);
+  width: 75%;
+  height: 100px;
+  padding-top: 20px;
+  /* text-align: center; */
+  text-indent: 100px;
+}
+
+.navBar {
+display: inline-block;
+}
+
+#bigBox {
+  background-color: black;
+  color: maroon ;
+  /* align-items: center; */
+  /* height: 960px;
+  width: 450px; */
+  /* padding-top: 1cm; */
+  margin-top: 1cm;
+  display: inline-block;
+  /* margin-left: auto;
+  margin-right: auto; */
+  
+}
+
+.setof3Boxes {
+  display: inline-block;
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+#textaboveCalltoAction {
+display: inline-block;
+height: 290px;
+width: 430px;
+/* float: right; */
+/* //overflow */
+overflow: scroll;
+vertical-align: top;
+
+}
+
+#footerbar {
+background-color: black;
+width: 100%;
+height: 50px;
+}
+
+button{
+  float: none;
+  border: none;
+  color: rgb(56, 56, 56);
+}
+
+button:hover {
+  background-color:red;
+  transition-duration: 350ms;
+}
+
+#infoSection {
+  width: 500px;
+}
